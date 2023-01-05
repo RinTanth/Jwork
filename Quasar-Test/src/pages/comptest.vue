@@ -22,6 +22,7 @@ export default {
       componentKey: 0, // for jtable
     };
   },
+  //hi
 
   methods: {
     refreshData2(data) {
